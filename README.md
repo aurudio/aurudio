@@ -17,7 +17,7 @@
 
 ### My setup
 
-![Windows](https://img.shields.io/badge/windows-%23000.svg?logo=macos&style=for-the-badge&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%23000.svg?logo=windows&style=for-the-badge&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/vscode-%23000.svg?logo=visualstudiocode&style=for-the-badge)
 
 ### Also
