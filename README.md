@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/reactjs-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000.svg?style=for-the-badge&logo=nextdotjs)
 
-![Redux-toolkit](https://img.shields.io/badge/redux-%23000.svg?style=for-the-badge&logo=redux&logoColor=660066)
+![Redux-toolkit](https://img.shields.io/badge/redux-%23000.svg?style=for-the-badge&logo=redux&logoColor=773dbc)
 
 
 ![GIT](https://img.shields.io/badge/git-%23000.svg?logo=git&style=for-the-badge)
@@ -21,7 +21,7 @@
 ### My setup
 
 ![Windows](https://img.shields.io/badge/windows-%23000.svg?logo=windows&style=for-the-badge&logoColor=white)
-![VS CODE](https://img.shields.io/badge/vscode-%23000.svg?logo=visualstudiocode&style=for-the-badge)
+![VS CODE](https://img.shields.io/badge/vscode-%23000.svg?logo=visualstudiocode&style=for-the-badge&logoColor=00a2e1)
 
 ### Also
 
