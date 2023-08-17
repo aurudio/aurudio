@@ -25,7 +25,7 @@
 
 ### Also
 
-![ramo4312's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramo4312&show_icons=true&theme=transparent&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramo4312&layout=compact&theme=transparent&hide_border=true)](https://github.com/ramo4312/github-readme-stats)
+![aurudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurudio&show_icons=true&theme=transparent&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurudio&layout=compact&theme=transparent&hide_border=true)](https://github.com/aurudio/github-readme-stats)
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31njek746omirm4ncvnpfvjchzzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31njek746omirm4ncvnpfvjchzzu&redirect=true) -->
